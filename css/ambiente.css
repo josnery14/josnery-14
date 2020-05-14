@@ -6,12 +6,6 @@
 	box-sizing: border-box;
 }
 
-body{
-	font-family: Sans-serif;
-	background: #000  url(../img/1.jpg);
-	background-size:cover;
-	background-attachment: fixed; 
-}
 
 .contenedor{
 	margin: auto;
